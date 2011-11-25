@@ -57,4 +57,31 @@ RNF06: O sistema deverá realizar log de acesso.
 RNF07: O sistema deverá disponibilizar acesso às informações seguindo normas instituídas
 no manual do código de ética para de sites de medicina e saúde do CREMESP (2001).
 
+4.0.   Casos de Uso
+
+No PEP foram previsto três tipos de atores (usuários):
+
+ 	Atendente;
+ 	Médico;
+ 	Administrador do Sistema.
+
+5.1.	Dados Demográficos do Paciente
+
+ 	Listar o paciente;
+ 	Cadastrar um novo paciente;
+ 	Selecionar o novo paciente para ser editado.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 

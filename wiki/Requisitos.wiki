@@ -1,0 +1,60 @@
+3.	Requisitos
+
+
+Para melhor performance do sistema é recomendado que as estações estejam na plataforma Windows (Versão XP ou Superior), ou Linux (Versão Ubunto10.10 ou Superior).1GB Memória RAM, HD 500GB, Processadores 1.6 GHz ou Superiores. Devem haver já instalados sistemas de protocolo eletrônico como: PróDoctor, MedView, ou sistemas de protocolos similares.
+
+3.1. Requisitos Funcionais   	    Caso de Uso
+
+RF01: O sistema deverá permitir emissão de relatório de agendamentos
+de consultas médicas pelos usuários do sistema.	UC01.01
+RF02: O sistema deverá permitir aos usuários do sistema a alteração da
+senha de acesso.	UC01.02
+RF03: O sistema deverá permitir o cadastro de pacientes pelos
+funcionários e médicos	UC02.01
+RF04: O sistema deverá permitir o registro de agendamento de consulta
+pelos funcionários e médicos.	UC02.02
+
+RF05: O sistema deverá permitir cadastro de medicamentos pelos
+funcionários e médicos.	UC02.03
+
+RF06: O sistema deverá permitir cadastro de exames complementares
+pelos funcionários e médicos.	UC02.04
+
+RF07: O sistema deverá permitir aos médicos a geração de receitas. 	UC03.01
+RF08: O sistema deverá permitir aos médicos a geração laudos. 	UC03.02
+RF09: O sistema deverá permitir aos médicos a consulta do histórico
+dos pacientes (prontuário).	UC03.03	
+
+RF10: O sistema deverá permitir atualização do prontuário, pelos
+médicos.	UC03.04
+
+RF11: O sistema deverá permitir o cadastro de clínicas médicas aos
+usuários administradores.	UC04.01
+
+RF12: O sistema deverá permitir o cadastro de usuários do sistema aos
+administradores.	UC04.02
+
+RF13: O sistema deverá permitir o cadastro de profissionais médicos
+aos usuários administradores.	UC04.03
+RF14: O sistema deverá permitir aos usuários administradores o
+cadastro de planos de saúde conveniados.	UC04.04
+RF15: O sistema deverá permitir aos usuários administradores o
+cadastro de cargos dos funcionários da clínica.	UC04.05
+
+3.2.	Requisitos Não-Funcionais
+
+RNF01: O navegador utilizado deve ser Internet Explorer versão 6.0 ou compatível.
+
+RNF02: O banco de dados utilizado deve ser MySQL versão 5.0.
+
+RNF03: O Web Server deve ser Apache 2.0 ou compatível com PHP versão 4.0.
+
+RNF03: O Web Server deve ser Apache 2.0 ou compatível com PHP versão 4.0.
+RNF04: O sistema deverá possuir controle de acesso por usuário e senha
+RNF05: O sistema deve ter tempo de resposta em consultas inferior a 5 segundos em uma
+condição de rede normal.
+RNF06: O sistema deverá realizar log de acesso.
+RNF07: O sistema deverá disponibilizar acesso às informações seguindo normas instituídas
+no manual do código de ética para de sites de medicina e saúde do CREMESP (2001).
+
+
